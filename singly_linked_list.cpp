@@ -120,3 +120,7 @@ int main() {
 
     return 0;
 }
+
+
+
+![Image](https://github.com/user-attachments/assets/42090c9f-4058-4e4d-b039-bf604b853631)
